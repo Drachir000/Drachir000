@@ -79,7 +79,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on <a href="https://github.com/Drachir000/SimpleConfigLib">SimpleConfigLib</a><br><br>- 👨‍💻 All of my projects are available at <a href="https://me.drachir000.de">me.drachir000.de</a><br><br>- 📫 How to reach me **mra.berginski@gmail.com**</p>
+<p align="left">- 🔭 I’m currently working on <a href="https://github.com/Drachir000/SimpleConfigLib">SimpleConfigLib</a><br><br>- 👨‍💻 All of my projects are available at <a href="https://me.drachir000.de">me.drachir000.de</a><br><br>- 📫 How to reach me <b><a href="mailto:mra.berginski@gmail.com">mra.berginski@gmail.com</b></p>
 
 ###
 
