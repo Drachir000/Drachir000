@@ -62,9 +62,9 @@
   <a href="https://www.youtube.com/@drachir000" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://ko-fi.com/drachir000" target="_blank">
+  <!--<a href="https://ko-fi.com/drachir000" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-  </a>
+  </a>-->
 </div>
 
 ###
@@ -79,7 +79,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on <a href="https://github.com/Drachir000/SimpleConfigLib">SimpleConfigLib</a><br><br>- 👨‍💻 All of my projects are available at <a href="https://me.drachir000.de">me.drachir000.de</a><br><br>- 📫 How to reach me <b><a href="mailto:mra.berginski@gmail.com">mra.berginski@gmail.com</b></p>
+<p align="left">- 🔭 I’m currently working on <a href="https://github.com/Drachir000/SimpleConfigLib">SimpleConfigLib</a><br><br>- 📫 How to reach me <b><a href="mailto:mra.berginski@gmail.com">mra.berginski@gmail.com</b></p>
 
 ###
 
