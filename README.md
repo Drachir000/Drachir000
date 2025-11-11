@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Drachir000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Drachir000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -26,25 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
 </div>
 
 ###
@@ -75,11 +57,11 @@
 
 ###
 
-<p align="left">Adept in automation and complex systems, with a passion for tinkering with custom Minecraft plugins.</p>
+<p align="left">Hello, I’m Drachir000. I’m a German computer science student driven by a passion for programming, robotics, and automation. My journey with code began with Java at age 12, and it’s grown into a deep curiosity for informatics and the tech that shapes our world.</p>
 
 ###
 
-<p align="left">- 🔭 I’m currently working on <a href="https://github.com/Drachir000/SimpleDatabaseLibrary">SimpleDatabaseLibrary</a><br><br>- 📫 How to reach me <b><a href="mailto:contact@drachir000.de">contact@drachir000.de</b></p>
+<p align="left">- 🌐 Take a look at my website: <a href="https://drachir000.de">drachir000.de</a><br><br>- 🔭 I’m currently working on <a href="https://github.com/Drachir000/VelocityAuth">VelocityAuth</a><br><br>- 📫 How to reach me <b><a href="mailto:contact@drachir000.de">contact@drachir000.de</b></p>
 
 ###
 
