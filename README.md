@@ -1,4 +1,4 @@
-<h2 align="left">Hello There! My name is Drachir and I'm a Java Developer, from Germany</h2>
+<h2 align="left">Hello There! My name is Drachir and I'm a Java/C++ Developer, from Germany</h2>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<p align="left">- 🌐 Take a look at my website: <a href="https://drachir000.de">drachir000.de</a><br><br>- 🔭 I’m currently working on <a href="https://github.com/Drachir000/VelocityAuth">VelocityAuth</a><br><br>- 📫 How to reach me <b><a href="mailto:contact@drachir000.de">contact@drachir000.de</b></p>
+<p align="left">- 🌐 Take a look at my website: <a href="https://drachir000.de">drachir000.de</a><br><br>- 🔭 I’m currently working on <a href="https://github.com/Drachir000/LineFollowerBot">LineFollowerBot</a><br><br>- 📫 How to reach me <b><a href="mailto:contact@drachir000.de">contact@drachir000.de</b></p>
 
 ###
 
